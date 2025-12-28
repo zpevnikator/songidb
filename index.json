@@ -62,6 +62,13 @@
             "description": "Large database from Czech Republic",
             "size": "16 900+",
             "url": "https://raw.githubusercontent.com/songiapp/songidb/main/vzp/db.songpro"
+        },
+        {
+            "id": "nns",
+            "title": "NNS",
+            "description": "Songs in Nashville Number System notation",
+            "size": "3700+",
+            "url": "https://raw.githubusercontent.com/songiapp/songidb/main/nns/nns1.songpro"
         }
     ]
 }
