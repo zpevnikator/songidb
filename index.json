@@ -67,7 +67,7 @@
             "id": "nns",
             "title": "NNS",
             "description": "Songs in Nashville Number System notation",
-            "size": "3700+",
+            "size": "<100",
             "url": "https://raw.githubusercontent.com/songiapp/songidb/main/nns/nns1.songpro"
         }
     ]
