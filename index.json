@@ -69,6 +69,13 @@
             "description": "Songs in Nashville Number System notation",
             "size": "<100",
             "url": "https://raw.githubusercontent.com/songiapp/songidb/main/nns/nns1.songpro"
+        },
+        {
+            "id": "kovarik",
+            "title": "Kovařík",
+            "description": "Songs for Martin Kovařík's poetry events",
+            "size": "<100",
+            "url": "https://raw.githubusercontent.com/songiapp/songidb/main/kovarik/kovarik.songpro"
         }
     ]
 }
